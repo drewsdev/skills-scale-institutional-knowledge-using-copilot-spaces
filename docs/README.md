@@ -25,6 +25,10 @@ Projects move through five stages:
 | **Developers** | Design and implement features with testability and maintainability in mind; participate in design and code reviews. |
 | **QA / Testing** | Validates acceptance criteria and overall quality. |
 | **Stakeholders** | Provide inputs and approvals; receive regular status updates. |
+| **UX Designer** | Champions user experience and accessibility; produces wireframes, prototypes, and design handoffs. |
+| **Solution Architect** | Defines technical architecture, guides design decisions, and ensures alignment with security and best practices. |
+| **Support / Customer Success Lead** | Coordinates release handoffs to support, gathers customer feedback, and drives adoption. |
+| **Data Analyst** | Tracks project and product metrics, builds dashboards, and surfaces data-driven insights. |
 
 ### Communication Strategies
 
@@ -54,4 +58,5 @@ Projects move through five stages:
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk register format, escalation paths, and communication templates. |
 | [Release & Deployment](octoacme-release-and-deployment.md) | Release checklist, deployment steps, rollback plan, and post-deploy verification. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retro format, action item tracking, and improvement cadence. |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and typical communication patterns for each role. |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, typical communication patterns, and RACI matrix for all roles. |
+| [Release & Support Handoff Checklist](octoacme-handoff-checklist.md) | Reusable checklist for release readiness, support enablement, and post-release follow-up. |
